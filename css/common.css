@@ -53,3 +53,11 @@ button {
 #validation-input.invalid {
   border-color: #f44336;
 }
+
+.color {
+  font-size: 40px;
+}
+
+.text-color {
+  color: aliceblue;
+}
